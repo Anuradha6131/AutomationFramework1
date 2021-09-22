@@ -1,0 +1,14 @@
+[INFO ] 2021-09-19 18:55:34.635 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-19 18:55:35.064 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-19 18:55:35.064 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-19 18:55:35.072 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-19 18:55:35.133 [main]  class - browserName chrome
+[INFO ] 2021-09-19 18:55:39.966 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-19 18:55:39.974 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-19 18:55:40.877 [main]  class - browserName chrome
+[INFO ] 2021-09-19 18:55:44.669 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-19 18:55:44.669 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-19 20:53:26.616 [main]  class - browserName chrome
+[INFO ] 2021-09-19 20:53:32.259 [main]  class - browserName chrome
+[INFO ] 2021-09-19 20:55:59.167 [main]  class - browserName chrome
+[INFO ] 2021-09-19 20:56:06.247 [main]  class - browserName chrome

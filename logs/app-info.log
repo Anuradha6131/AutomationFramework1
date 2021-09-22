@@ -1,0 +1,210 @@
+[INFO ] 2021-09-21 00:02:35.266 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:02:38.262 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:02:38.309 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:02:38.309 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:02:38.309 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:02:39.264 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:02:41.686 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:02:43.553 [main]  LoggerListener - Test 'clickFbIconTest' PASSED
+[INFO ] 2021-09-21 00:02:43.553 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:02:43.554 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:02:44.247 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:02:44.703 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:02:44.703 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:02:44.703 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:02:44.841 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:02:47.101 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:02:49.189 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:02:49.189 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:02:49.380 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 00:02:49.380 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 00:02:49.380 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:02:50.056 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:02:52.518 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:02:54.117 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:02:54.117 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:02:54.336 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 00:02:54.336 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 00:02:54.336 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:09:06.832 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:09:09.903 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:09:09.934 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:09:09.934 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:09:09.934 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:09:10.809 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:09:13.175 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:09:15.143 [main]  LoggerListener - Test 'clickFbIconTest' PASSED
+[INFO ] 2021-09-21 00:09:15.144 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:09:15.144 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:09:15.848 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:09:16.293 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:09:16.293 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:09:16.301 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:09:16.447 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:09:18.870 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:09:20.075 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:09:20.075 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:09:20.255 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:09:20.255 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:09:21.065 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:09:23.306 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:09:24.438 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:09:24.438 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:09:24.609 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:09:24.609 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:33:47.344 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:33:50.536 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:33:50.551 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:33:50.551 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:33:50.551 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:33:51.427 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:33:53.646 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:33:55.080 [main]  LoggerListener - Test 'clickFbIconTest' FAILED
+[INFO ] 2021-09-21 00:33:55.080 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:33:55.851 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:33:56.375 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:33:56.375 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:33:56.375 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:33:56.512 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:33:58.647 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:33:59.707 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:33:59.707 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:33:59.876 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:33:59.876 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:34:00.651 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:34:02.925 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:34:04.148 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:34:04.148 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:34:04.301 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:34:04.301 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:36:53.403 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:36:56.232 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:36:56.279 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:36:56.295 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:36:56.295 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:36:57.172 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:36:59.616 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:37:00.785 [main]  LoggerListener - Test 'clickFbIconTest' FAILED
+[INFO ] 2021-09-21 00:37:00.785 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:37:01.560 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:37:02.017 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:37:02.017 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:37:02.032 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:37:02.173 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:37:04.555 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:37:05.880 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:37:05.880 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:37:06.072 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:37:06.072 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:37:06.865 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:37:09.290 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:37:10.452 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:37:10.460 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:37:10.647 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:37:10.647 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:38:19.421 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:38:22.564 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:38:22.627 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:38:22.627 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:38:22.627 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:38:23.533 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:38:25.997 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:38:27.150 [main]  LoggerListener - Test 'clickFbIconTest' FAILED
+[INFO ] 2021-09-21 00:38:27.150 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:38:27.949 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:38:28.427 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:38:28.427 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:38:28.443 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:38:28.601 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:38:31.101 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:38:32.413 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:38:32.413 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:38:32.582 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:38:32.582 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:38:33.345 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:38:35.868 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:38:37.088 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:38:37.088 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:38:37.279 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:38:37.279 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:40:20.279 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:40:23.140 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:40:23.171 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 00:40:23.171 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 00:40:23.171 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:40:24.087 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:40:26.559 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:40:27.962 [main]  LoggerListener - Test 'clickFbIconTest' FAILED
+[INFO ] 2021-09-21 00:40:27.962 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:40:28.740 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 00:40:29.209 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 00:40:29.209 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:40:29.209 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 00:40:29.431 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:40:31.874 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:40:33.067 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 00:40:33.067 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 00:40:33.230 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:40:33.230 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 00:40:34.022 [main]  class - browserName chrome
+[INFO ] 2021-09-21 00:40:36.503 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 00:40:37.570 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 00:40:37.570 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 00:40:37.728 [main]  LoggerListener - Test 'loginTest' FAILED
+[INFO ] 2021-09-21 00:40:37.728 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:35:33.422 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:35:37.724 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:35:37.769 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 19:35:37.769 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 19:35:37.769 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:35:38.761 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:35:40.877 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:35:44.000 [main]  LoggerListener - Test 'clickFbIconTest' PASSED
+[INFO ] 2021-09-21 19:35:44.000 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 19:35:44.000 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:35:44.687 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 19:35:45.313 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 19:35:45.313 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 19:35:45.313 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 19:35:45.673 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:35:48.320 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:35:50.081 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 19:35:50.081 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 19:35:50.346 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 19:35:50.346 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 19:35:50.346 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:35:51.071 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:35:53.421 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:35:55.443 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 19:35:55.443 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 19:35:55.644 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 19:35:55.644 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 19:35:55.644 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:37:53.894 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:37:56.843 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:37:56.908 [main]  LoggerListener - Test 'getMenuCountTest' PASSED
+[INFO ] 2021-09-21 19:37:56.909 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 19:37:56.910 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:37:57.805 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:38:00.393 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:38:02.360 [main]  LoggerListener - Test 'clickFbIconTest' PASSED
+[INFO ] 2021-09-21 19:38:02.361 [main]  LoggerListener - [TestClass name=class com.wbl.test.HomePageTest]
+[INFO ] 2021-09-21 19:38:02.361 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:38:03.055 [main]  class - excel sheet path :C:\Users\ganu1\IdeaProjects\AutomationFramework1/resources/test-data/Demodata2.xlsx
+[INFO ] 2021-09-21 19:38:03.521 [main]  class - Number of rows in excel 2
+[INFO ] 2021-09-21 19:38:03.521 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 19:38:03.521 [main]  class - Number of cols in excel 3
+[INFO ] 2021-09-21 19:38:03.685 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:38:06.541 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:38:08.644 [main]  class - usn from excel g.anu6131@gmail.com
+[INFO ] 2021-09-21 19:38:08.644 [main]  class - pwd from excel Target123
+[INFO ] 2021-09-21 19:38:08.854 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 19:38:08.854 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 19:38:08.854 [main]  LoggerListener - Priority of this method is 0
+[INFO ] 2021-09-21 19:38:09.556 [main]  class - browserName chrome
+[INFO ] 2021-09-21 19:38:12.010 [main]  LoggerListener - Test Started....
+[INFO ] 2021-09-21 19:38:14.066 [main]  class - usn from excel g.anuradha1205@gmail.com
+[INFO ] 2021-09-21 19:38:14.066 [main]  class - pwd from excel testing123
+[INFO ] 2021-09-21 19:38:14.293 [main]  LoggerListener - Test 'loginTest' PASSED
+[INFO ] 2021-09-21 19:38:14.293 [main]  LoggerListener - [TestClass name=class com.wbl.test.FbLoginPageTest]
+[INFO ] 2021-09-21 19:38:14.293 [main]  LoggerListener - Priority of this method is 0

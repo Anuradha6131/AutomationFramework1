@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="28708" started-at="2021-09-18T20:48:00 PDT" finished-at="2021-09-18T20:48:29 PDT">
+    <groups>
+    </groups>
+    <test name="C:\Users\ganu1\IdeaProjects\AutomationFramework1" duration-ms="28708" started-at="2021-09-18T20:48:00 PDT" finished-at="2021-09-18T20:48:29 PDT">
+      <class name="com.wbl.test.HomePageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2021-09-18T20:48:00 PDT" finished-at="2021-09-18T20:48:00 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="setup" is-config="true" duration-ms="8349" started-at="2021-09-18T20:48:00 PDT" finished-at="2021-09-18T20:48:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenuCountTest()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="getMenuCountTest" duration-ms="45" started-at="2021-09-18T20:48:09 PDT" finished-at="2021-09-18T20:48:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenuCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="tearDown" is-config="true" duration-ms="625" started-at="2021-09-18T20:48:09 PDT" finished-at="2021-09-18T20:48:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="setup" is-config="true" duration-ms="12287" started-at="2021-09-18T20:48:09 PDT" finished-at="2021-09-18T20:48:22 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickFbIconTest()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="clickFbIconTest" duration-ms="1011" started-at="2021-09-18T20:48:22 PDT" finished-at="2021-09-18T20:48:23 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFbIconTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wbl.test.HomePageTest@6f1fba17]" name="tearDown" is-config="true" duration-ms="607" started-at="2021-09-18T20:48:23 PDT" finished-at="2021-09-18T20:48:23 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.test.HomePageTest -->
+      <class name="com.wbl.test.FbLoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wbl.test.FbLoginPageTest@6ddf90b0]" name="setup" is-config="true" duration-ms="1945" started-at="2021-09-18T20:48:23 PDT" finished-at="2021-09-18T20:48:25 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.wbl.test.FbLoginPageTest@6ddf90b0]" name="loginTest" duration-ms="3202" started-at="2021-09-18T20:48:25 PDT" finished-at="2021-09-18T20:48:28 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wbl.test.FbLoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="634" started-at="2021-09-18T20:48:28 PDT" finished-at="2021-09-18T20:48:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.test.FbLoginPageTest -->
+    </test> <!-- C:\Users\ganu1\IdeaProjects\AutomationFramework1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
